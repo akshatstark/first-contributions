@@ -88,6 +88,7 @@
 -   [Aman Kumar Nayak](https://github.com/amankumarnayak)
 -   [Daniel Julius Stein](https://github.com/danieljuliusstein)
 -   [Ankit Kumar Roshan](https://github.com/akr99799)
+-   Akshat Singh
 -   [Maisha Mir](https://github.com/maishamir)
 -   [Med Noor](https://github.com/mednoor890)
 -   [Logan Hagen](https://github.com/loganhagen)
